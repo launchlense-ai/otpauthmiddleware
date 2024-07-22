@@ -1,0 +1,8 @@
+LICENCE
+README.md
+setup.py
+otpauthmiddleware.egg-info/PKG-INFO
+otpauthmiddleware.egg-info/SOURCES.txt
+otpauthmiddleware.egg-info/dependency_links.txt
+otpauthmiddleware.egg-info/requires.txt
+otpauthmiddleware.egg-info/top_level.txt
